@@ -1,0 +1,7 @@
+div.center {
+    display: flex;
+    justify-content: center;
+}
+body {
+    background-color: #C9DAEA;
+  }
